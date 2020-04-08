@@ -1,0 +1,8 @@
+name: KnockbackFFA - Marvin2k0
+author: Marvin2k0
+version: 1.0
+main: de.marvin2k0.knockbackffa.KnockbackFFA
+commands:
+  knockbackffa:
+    aliases: [kb]
+    description: KnockbackFFA Plugin von Marvin2k0
